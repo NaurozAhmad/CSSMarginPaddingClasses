@@ -5,5 +5,15 @@ Contains CSS Classes for margin and padding starting from 0, 0.5em and then incr
 
 ## Examples
 `.ml05` => `margin-left: 0.5em`
+
 `.ml1` => `margin-left: 1em;`
+
 `.mlauto` => `margin-left: auto`
+
+## Usage
+Import URL `https://cdn.jsdelivr.net/gh/NaurozAhmad/CSSMarginPaddingClasses/margin-padding-classes.css`
+
+### CSS
+```
+@import('https://cdn.jsdelivr.net/gh/NaurozAhmad/CSSMarginPaddingClasses/margin-padding-classes.css');
+```
